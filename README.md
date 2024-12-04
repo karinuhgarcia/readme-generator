@@ -68,7 +68,7 @@ To install and run the README Generator, follow these steps:
   - npm install
 4. Run the application:
   - node index.js
-  - 
+
 The application will prompt you to answer a series of questions about your project, and then it will generate a README.md file based on your responses.
 
 ## Usage
