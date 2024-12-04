@@ -88,7 +88,7 @@ The application will ask for the following information:
 - Test Instructions
 - Your GitHub Account Information
 - Your Email Address
-- 
+  
 After completing the prompts, the application will generate a professional README.md file in the same directory.
 
 ## License
